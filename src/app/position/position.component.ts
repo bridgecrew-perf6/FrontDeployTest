@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { Guid } from 'guid-typescript';
 import { Position, PositionService } from '../Services/PositionService/position-service.service';
 //import { DataService, Product } from '../data.service';
-
+//comment
 @Component({
   selector: 'app-position',
   templateUrl: './position.component.html',
